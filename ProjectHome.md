@@ -1,0 +1,1 @@
+This is a study of the two-dimensional non-guillotine cutting problem. The algorithms has been implemented in C.
